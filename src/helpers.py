@@ -1,3 +1,6 @@
+# Author: Isabelle Maddox
+# Last Updated: 10/29/2024
+
 import requests
 import json
 

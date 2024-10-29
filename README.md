@@ -31,7 +31,7 @@ This app also requires the Notion database provided to the app to match these ex
 * Tags (multiselect)
 * Status (select)
 
-[Notion Database Properties]
+![Notion Database Properties](/assets/Database.png)
 
 The Database page must [Add the Integration](https://www.notion.so/help/add-and-manage-connections-with-the-api) that matches the provided Notion secret to allow the app to add entries to the database.
 

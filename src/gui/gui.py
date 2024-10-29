@@ -1,3 +1,6 @@
+# Author: Isabelle Maddox
+# Last Updated: 10/29/2024
+
 from flask import Flask, render_template, request
 import requests
 import helpers
