@@ -19,9 +19,9 @@ This app requires the following Python Dependencies:
 ---
 This app uses the following APIs:
 * [Google Books](https://developers.google.com/books/docs/v1/getting_started)
-  * Required for the App: An API Key
+  * Required for the App: **A Google Books API Key**
 * [Notion](https://developers.notion.com/docs/getting-started)
-  * Required for the App: A Notion Integration (& Notion Secret)
+  * Required for the App: **A Notion Integration (& Notion Secret)**
 ---
 This app also requires the Notion database provided to the app to match these exact specifications:
 * Name (title)
@@ -38,6 +38,8 @@ The Database page must [Add the Integration](https://www.notion.so/help/add-and-
 The Tags property must also have all the options you wish to write in the entry form (ex. YA must be an existing option for the multiselect property to add a book entry with that tag option).
 
 The application can be modified to match your desired Database specifications by following the instructions in [Modifications](#modifications).
+
+For instructions on locating the **Database's ID** for use by the app, please view the Notion API documentation on [Retrieving a Database](https://developers.notion.com/reference/retrieve-a-database).
   
 ## Setup
 
